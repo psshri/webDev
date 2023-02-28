@@ -1,0 +1,23 @@
+Front-end
+
+HTML
+
+CSS, Bootstrap 
+
+JavaScript
+
+CSS Frameworks: Bootstrap (start with this), tailwindcss + tailblocks
+Front-end libraries: ReactJS
+
+Back-end
+
+Option 1 (start with this): NodeJS (JavaScript) + MongoDB/Redis + Mongoose
+
+Option 2: Django (Python) + MongoDB
+
+Database: MySQL, MongoDB/Firebase
+
+Headless CMS: Strapi (prefer this), Sanity.io
+
+
+MERN Stack: MongoDB, Express.JS, ReactJS, NodeJS

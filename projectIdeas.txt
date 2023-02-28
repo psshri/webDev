@@ -1,0 +1,4 @@
+Project Ideas
+
+1) Path Finding Visualizer (DFS, BFS)
+2) Multi person to-do app
